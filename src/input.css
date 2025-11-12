@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@utility home {
+    background-image: url('../assets/bg.png');
+}
+
+@utility poppins {
+    font-family: 'Poppins', sans-serif;
+}
